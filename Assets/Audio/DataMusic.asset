@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bd914e2d598ac846b497512aca2e5e0, type: 3}
+  m_Name: DataMusic
+  m_EditorClassIdentifier: 
+  DataSounds:
+  - nameClip: Theme1
+    Clip: {fileID: 8300000, guid: 63de31723b627b04f9ecfde0db365fbf, type: 3}
+  - nameClip: Theme2
+    Clip: {fileID: 8300000, guid: df7151b2eba95894eb8d68585cdced9a, type: 3}
+  - nameClip: Theme3
+    Clip: {fileID: 8300000, guid: f62d7b95dcdf4274fa4f68f9df8e4730, type: 3}
